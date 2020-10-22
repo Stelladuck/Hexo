@@ -1,9 +1,14 @@
 ---
 title: Hello World + Hexo 설치
+mathjax: true
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
 다양한 깃블로그를 구경하다가 NexT라는 테마가 마음에 들어 설치해보고자 마음을 먹었다. 우여곡절 끝에 Ubuntu 20.04(혹은 18.04)에 설치하는 것은 성공적이었지만 깃 사용법에 익숙하지 않고 웹서버와 관련된 지식이 전혀 없다보니 여러 시행착오가 있었다. 이 글은 필자가 겪었던 비슷한 어려움에 직면한 이들을 위해 작게나마 도움이 되는 전반적인 방법을 제공한다. 부디 도움이 되길 바란다.
+
+$$\begin{equation*}
+\sum_{\delta \in \omega}\kappa(\delta, A) \approx \lim_{x \to q}\left[\frac{\Omega^{\hbar}(x;q)}{3n}\prod_{\delta\in\omega}f(y;\delta)\right]
+\end{equation*}$$
 
 ## 헥소(Hexo)를 다루기 이전에
 
